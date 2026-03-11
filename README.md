@@ -98,7 +98,7 @@
     The model achieves high accuracy on handwritten digit classification after training. Below is an example of the model's output:
   </p>
   <div style="background-color: #2f333a; padding: 15px; border-radius: 5px; margin-top: 15px; text-align: center;">
-    <img src="sample_output.webp" alt="Sample Output" width="400" style="border-radius: 5px;">
+    <img src="sample_output.png" alt="Sample Output" width="400" style="border-radius: 5px;">
   </div>
   <p style="font-size: 0.9em; color: #cccccc; margin-top: 10px;">
     <em>The image above illustrates a sample prediction, showing the predicted digit and the actual digit.</em>
