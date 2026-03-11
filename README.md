@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🔢 Handwritten Digit Recognition using Deep Learning</h1>
+<h1> Handwritten Digit Recognition using Deep Learning</h1>
   <p>A Deep Learning project to classify handwritten digits (0-9) using the MNIST dataset.</p>   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge"/>
@@ -9,18 +9,18 @@
   </p>
 </div>   
  <div style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px; text-align: center;">
-  <h2 style="color: #61dafb;">📌 Project Overview</h2>
+  <h2 style="color: #61dafb;"> Project Overview</h2>
   <p style="font-size: 1.1em;">
     This project demonstrates <strong>Handwritten Digit Recognition</strong> using <strong>Deep Learning</strong> with the world-renowned <strong>MNIST dataset</strong>. By leveraging a Neural Network model built with <strong>TensorFlow & Keras</strong>, we can classify handwritten digits (0–9 ) with remarkable accuracy.
   </p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" width="500" alt="MNIST Examples" style="margin-top: 20px; border-radius: 5px;">
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;">🧠 What is Deep Learning?</h2>
+  <h2 style="color: #a9a9a9;"> What is Deep Learning?</h2>
   <blockquote style="border-left: 4px solid #61dafb; padding-left: 15px; margin: 0; font-style: italic;">
     <strong>Deep Learning</strong> is a subfield of Machine Learning that utilizes <strong>Artificial Neural Networks</strong> with multiple layers to automatically learn complex patterns from data. Unlike traditional programming, these models learn directly from examples such as images, text, or audio.
   </blockquote>
-  <h3 style="color: #a9a9a9;">🎯 Purpose of the Project</h3>
+  <h3 style="color: #a9a9a9;"> Purpose of the Project</h3>
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li>Understand the fundamental <strong>Deep Learning workflow</strong>.</li>
     <li>Build and architect a <strong>Neural Network model</strong>.</li>
@@ -30,7 +30,7 @@
   </ul>
 </div>   
  <div style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #61dafb;">📊 Dataset: MNIST</h2>
+  <h2 style="color: #61dafb;"> Dataset: MNIST</h2>
   <p style="font-size: 1.1em;">
     The MNIST dataset is often referred to as the "Hello World" of Deep Learning. It consists of:
   </p>
@@ -42,7 +42,7 @@
   </ul>
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;">🏗 Model Architecture</h2>
+  <h2 style="color: #a9a9a9;">Model Architecture</h2>
   <p style="font-size: 1.1em;">
     The Neural Network is designed with a sequential architecture to process image data efficiently:
   </p>
@@ -79,7 +79,7 @@
   </table>
 </div>   
  <div style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #61dafb;">🔄 Project Workflow</h2>
+  <h2 style="color: #61dafb;">Project Workflow</h2>
   <ol style="list-style-type: decimal; margin-left: 20px;">
     <li><strong>Import Libraries</strong>: Loading TensorFlow, NumPy, and Matplotlib.</li>
     <li><strong>Load Dataset</strong>: Fetching the MNIST data directly from Keras.</li>
@@ -93,7 +93,7 @@
   </ol>
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;">📈 Model Performance & Output</h2>
+  <h2 style="color: #a9a9a9;">Model Performance & Output</h2>
   <p style="font-size: 1.1em;">
     The model achieves high accuracy on handwritten digit classification after training. Below is an example of the model's output:
   </p>
@@ -109,17 +109,17 @@
   </p>
 </div>   
  <div style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #61dafb;">🚀 Applications</h2>
+  <h2 style="color: #61dafb;"> Applications</h2>
   <ul style="list-style-type: disc; margin-left: 20px;">
-    <li>🏦 <strong>Bank Cheque Processing</strong></li>
-    <li>📮 <strong>Postal Code Recognition</strong></li>
-    <li>📄 <strong>Document Digitization</strong></li>
-    <li>📝 <strong>Automatic Form Reading</strong></li>
-    <li>🔍 <strong>Optical Character Recognition (OCR)</strong></li>
+    <li> <strong>Bank Cheque Processing</strong></li>
+    <li> <strong>Postal Code Recognition</strong></li>
+    <li> <strong>Document Digitization</strong></li>
+    <li> <strong>Automatic Form Reading</strong></li>
+    <li> <strong>Optical Character Recognition (OCR)</strong></li>
   </ul>
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;">▶️ How to Run</h2>
+  <h2 style="color: #a9a9a9;"> How to Run</h2>
   <p style="font-size: 1.1em;">
     To get started with this project, follow these simple steps:
   </p>
@@ -133,7 +133,7 @@
   </ol>
 </div>   
  <div align="center" style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #61dafb;">👩‍💻 Author</h2>
+  <h2 style="color: #61dafb;"> Author</h2>
   <p style="font-size: 1.2em; font-weight: bold;">Sonia Thakur</p>
-  <p style="font-size: 0.9em; color: #cccccc;">Developed with ❤️ using Deep Learning</p>
+
 </div>
