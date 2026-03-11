@@ -97,6 +97,13 @@
   <p style="font-size: 1.1em;">
     The model achieves high accuracy on handwritten digit classification after training. Below is an example of the model's output:
   </p>
+   <div style="background-color: #2f333a; padding: 15px; border-radius: 5px; margin-top: 15px;">
+    <pre style="color: #e6e6e6; font-family: 'Courier New', Courier, monospace;">
+      Test Accuracy:0.9731000065803528
+      Predicted Digit: 7
+      Actual Digit: 7
+    </pre>
+  </div>
   <div style="background-color: #2f333a; padding: 15px; border-radius: 5px; margin-top: 15px; text-align: center;">
     <img src="sample_output.png" alt="Sample Output" width="400" style="border-radius: 5px;">
   </div>
