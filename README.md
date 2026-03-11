@@ -99,13 +99,13 @@
   </p>
   <div style="background-color: #2f333a; padding: 15px; border-radius: 5px; margin-top: 15px;">
     <pre style="color: #e6e6e6; font-family: 'Courier New', Courier, monospace;">
-      Test Accuracy: [Your Model's Accuracy Here, e.g., 0.985]
+      Test Accuracy: 0.9790999889373779
       Predicted Digit: 7
       Actual Digit: 7
     </pre>
   </div>
   <p style="font-size: 0.9em; color: #cccccc; margin-top: 10px;">
-    <em>Note: Replace `[Your Model's Accuracy Here, e.g., 0.985]` with the actual accuracy from your model's evaluation.</em>
+   
   </p>
 </div>   
  <div style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
