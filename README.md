@@ -42,7 +42,7 @@
   </ul>
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;">Model Architecture</h2>
+  <h2 style="color: #a9a9a9;"> Model Architecture</h2>
   <p style="font-size: 1.1em;">
     The Neural Network is designed with a sequential architecture to process image data efficiently:
   </p>
@@ -93,33 +93,29 @@
   </ol>
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;">Model Performance & Output</h2>
+  <h2 style="color: #a9a9a9;"> Model Performance & Output</h2>
   <p style="font-size: 1.1em;">
     The model achieves high accuracy on handwritten digit classification after training. Below is an example of the model's output:
   </p>
-  <div style="background-color: #2f333a; padding: 15px; border-radius: 5px; margin-top: 15px;">
-    <pre style="color: #e6e6e6; font-family: 'Courier New', Courier, monospace;">
-      Test Accuracy: 0.9790999889373779
-      Predicted Digit: 7
-      Actual Digit: 7
-    </pre>
+  <div style="background-color: #2f333a; padding: 15px; border-radius: 5px; margin-top: 15px; text-align: center;">
+    <img src="sample_output.webp" alt="Sample Output" width="400" style="border-radius: 5px;">
   </div>
   <p style="font-size: 0.9em; color: #cccccc; margin-top: 10px;">
-   
+    <em>The image above illustrates a sample prediction, showing the predicted digit and the actual digit.</em>
   </p>
 </div>   
  <div style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
   <h2 style="color: #61dafb;"> Applications</h2>
   <ul style="list-style-type: disc; margin-left: 20px;">
     <li> <strong>Bank Cheque Processing</strong></li>
-    <li> <strong>Postal Code Recognition</strong></li>
+    <li><strong>Postal Code Recognition</strong></li>
     <li> <strong>Document Digitization</strong></li>
     <li> <strong>Automatic Form Reading</strong></li>
     <li> <strong>Optical Character Recognition (OCR)</strong></li>
   </ul>
 </div>   
  <div style="background-color: #3a3f4b; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #a9a9a9;"> How to Run</h2>
+  <h2 style="color: #a9a9a9;">How to Run</h2>
   <p style="font-size: 1.1em;">
     To get started with this project, follow these simple steps:
   </p>
@@ -133,7 +129,11 @@
   </ol>
 </div>   
  <div align="center" style="background-color: #282c34; color: #ffffff; padding: 20px; border-radius: 8px;">
-  <h2 style="color: #61dafb;"> Author</h2>
-  <p style="font-size: 1.2em; font-weight: bold;">Sonia Thakur</p>
-
+  
+  <p style="font-size: 1.2em; font-weight: bold;">Author: Sonia Thakur</p>
+    <p style="font-size: 1.2em; font-weight: bold;">Email: soniathakur7298@gmail.com</p>
 </div>
+
+
+
+
